@@ -1,0 +1,3 @@
+#include "resource.h"
+
+FILE_ID FILE_TYPE_ID "DataField42.exe"
